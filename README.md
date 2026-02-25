@@ -32,13 +32,10 @@
 3. 打开浏览器访问:
    `http://localhost:8080`
 
-## 发布到 GitHub Pages
-
-1. 新建 GitHub 仓库并推送代码（分支 `main`）。
-2. 仓库 `Settings -> Pages -> Build and deployment`:
-   - Source 选择 `Deploy from a branch`
-   - Branch 选择 `main` / `root`
-3. 等待 1-2 分钟即可通过上方 Pages 地址访问。
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jesselau76/cigen&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jesselau76/cigen&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jesselau76/cigen&type=Date" />
+</picture>
 
 
